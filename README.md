@@ -1,6 +1,6 @@
 # SocialMedia
 Description: SocialMedia(Friends) is a FULL MERN Stack website made with Real Time Database Updates, Interactive, User Friendly Environment.
-             All the datas are saved at MongoDB Atlas, connected through Expressed, designed with Bootsrap, divided in ReactJS components, united by NodeJS.
+             All the datas are saved at MongoDB Atlas, connected through Express, designed with Bootsrap, divided in ReactJS components, united by NodeJS.
              
 Steps To Load WebPage on your device:
 1) Download Zip Folder, extract it.
