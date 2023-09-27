@@ -1,4 +1,4 @@
-# SocailMedia
+# SocialMedia
 Steps To Load WebPage on your device:
 1) Download Zip Folder, extract it.
 2) Open the downloaded folder at Terminal
